@@ -13,20 +13,25 @@ This project will stretch the knowledge and aptitude of even the most seasoned e
 ## Vehicle
    - Requirements
       - Small in size
-      - Must have ability to float upright
+      - Must have ability to upright self in event of capsize
       - Internal bay will require cooling
       - Must be able to survive saltwater, heat, sun, and freeze
       - Ability to pump out water from internal bay
       
-  - Sensors
-    - GPS + GLONASS
-    - Inertial naviation (https://vetco.net/products/9-axis-inertial-navigation-module-for-arduino-d65)
-    - Gyro (https://www.adafruit.com/product/2019)
-    - X : Wind speed and direction indicator : NOTE anemometer is not practical for this project
-    - Accelerometer (https://www.adafruit.com/product/2019)
-    - Temperature internal bay and environment (https://www.adafruit.com/product/1782)
-    - Water sensor for internal bay
-    - Compass (https://www.adafruit.com/product/5579)
+   - Materials
+      - Plastic body, sail, and components
+      - Hard plastic sail for duribility
+      
+   - Sensors
+      - GPS + GLONASS
+      - Inertial naviation (https://vetco.net/products/9-axis-inertial-navigation-module-for-arduino-d65)
+      - Gyro (https://www.adafruit.com/product/2019)
+      - X : Wind speed and direction indicator : NOTE anemometer is not practical for this project
+      - Accelerometer (https://www.adafruit.com/product/2019)
+      - Temperature internal bay and environment (https://www.adafruit.com/product/1782)
+      - Water sensor for internal bay
+      - Compass (https://www.adafruit.com/product/5579)
+      - Camera
 
 ## Communication
   - Unkown
@@ -41,5 +46,7 @@ This project will stretch the knowledge and aptitude of even the most seasoned e
 
 ## Software
   - Systems on board
+    - 3 Raspberry Pi zero's as primary computational hardware and redundency
     - Must be able to keep vessel towards correct heading using rudder and sail regardless of wind speed and direction
   - Remote systems
+    - 
