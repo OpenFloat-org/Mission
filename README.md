@@ -1,3 +1,5 @@
+<img width="523" alt="Screen Shot 2022-11-17 at 4 48 04 PM" src="https://user-images.githubusercontent.com/8175253/202567502-8dba20ea-d74a-466d-8608-16ca1cf8f806.png">
+
 # OpenFloat's mission is to sail a small autonomous vessel that circumnavigates the earth
 This project will stretch the knowledge and aptitude of even the most seasoned engineers. Are you up for the challenge? Join this Open Source community and help us push further into the unkown of the deep blue.
 
